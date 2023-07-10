@@ -1,7 +1,5 @@
 # TextUtils
 
-A tool for analyzing text data in Django backend
-
 It is a simple django website using which we can Analyze text.
 
 <h1>What Can We do from Textutils ?</h1>
